@@ -1,0 +1,190 @@
+{
+  "kind": "haven-mat-project",
+  "fileVersion": 1,
+  "templateId": "fh",
+  "snapshotVersion": 2,
+  "snapshot": {
+    "name": "Taxbriber",
+    "state": {
+      "variantFeatures": {
+        "extraBar": false,
+        "multiHand": false,
+        "tokens": false
+      },
+      "colorOverrides": {
+        "background": {
+          "h": 58,
+          "s": 100,
+          "l": 52,
+          "a": 1
+        },
+        "lines": {
+          "h": 0,
+          "s": 0,
+          "l": 67,
+          "a": 1
+        },
+        "decorations": {
+          "h": 17,
+          "s": 71,
+          "l": 15,
+          "a": 0.65
+        },
+        "banners": {
+          "h": 17,
+          "s": 71,
+          "l": 15,
+          "a": 0.65
+        },
+        "banners-top": {
+          "h": 17,
+          "s": 71,
+          "l": 15,
+          "a": 0.65
+        },
+        "banners-bottom": {
+          "h": 17,
+          "s": 71,
+          "l": 15,
+          "a": 0.65
+        },
+        "banners-left": {
+          "h": 17,
+          "s": 71,
+          "l": 15,
+          "a": 0.65
+        },
+        "banners-right": {
+          "h": 17,
+          "s": 71,
+          "l": 15,
+          "a": 0.65
+        },
+        "gem": {
+          "h": 18,
+          "s": 84,
+          "l": 12,
+          "a": 1
+        },
+        "colored-text": {
+          "h": 0,
+          "s": 0,
+          "l": 73,
+          "a": 1
+        },
+        "traits": {
+          "h": 0,
+          "s": 0,
+          "l": 67,
+          "a": 1
+        },
+        "class-icon": {
+          "h": 0,
+          "s": 0,
+          "l": 0,
+          "a": 0.44
+        }
+      },
+      "textOverrides": {
+        "frame.name": "Taxbriber",
+        "bg.hand-size": "11",
+        "content.notes": "- custom: '%p_font-size:1.25em%%You can manipulate allies and enemies by performing %b%Bribe%be% %Bribe:i% abilities. To %Bribe:i% an ally or enemy, you give them %b%1 loot card%be% or %b%1 money token%be% you have. Alternatively, you can spend %b%1 Resource%be% or %b%Gold worth 1 Coin%be% value from your supply.'\n  lineHeight: 1\n- divider: \n- custom: '%p_font-size:1.25em%You have many %loot% %b%actions%be% to fuel your other abilties. Communicate with allies and plan your and enemy placement on the map carefully.'\n  lineHeight: 1"
+      },
+      "assetOverrides": {
+        "bg.portrait": {
+          "assetUrl": "",
+          "position": {
+            "x": -900,
+            "y": 0
+          },
+          "scale": 0.99,
+          "rotation": 0,
+          "sourceUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPAYXljXRPA8o90DR5AX76RmO78iZ7ulKUPrS3ZxlMxi4piZtuD-8mkbg&s=10"
+        },
+        "frame.icon": {
+          "assetUrl": "",
+          "position": {
+            "x": 0,
+            "y": 0
+          },
+          "scale": 1,
+          "rotation": 0,
+          "sourceUrl": "https://img.icons8.com/?size=100&id=vvMKHfur7ulu&format=png&color=000000"
+        }
+      },
+      "hpTrack": {
+        "preset": "high"
+      },
+      "traits": [
+        "Educated",
+        "Resourceful",
+        "Intimidating"
+      ],
+      "rulesReferences": [
+        {
+          "title": "",
+          "page": ""
+        },
+        {
+          "title": "",
+          "page": ""
+        }
+      ],
+      "iconLegendShow": {
+        "jump": true,
+        "flying": false,
+        "teleport": false
+      },
+      "bleedEnabled": true,
+      "advancedColors": true,
+      "advancedTraits": false,
+      "customIcons": [
+        {
+          "id": "4314a221-3c78-486b-ac67-4307125e8d0b",
+          "name": "Bribe",
+          "sourceUrl": "https://img.icons8.com/?size=100&id=4rLjJ3tMbQ7V&format=png&color=000000",
+          "imageUrl": "",
+          "scale": 1,
+          "offsetY": 0
+        }
+      ],
+      "resourceTracker": {
+        "enabled": false,
+        "maxResources": 5,
+        "advancedPositioning": false,
+        "slotOffsetsY": []
+      },
+      "extraBar": {
+        "secondBar": "off",
+        "summonStats": false,
+        "damageConditions": false,
+        "barTrack": {
+          "preset": "mid"
+        }
+      }
+    },
+    "back": {
+      "bleedEnabled": true,
+      "originMode": "builtin",
+      "originKey": "Inox",
+      "customOriginText": "",
+      "customDescription": "",
+      "retirementText": "00.0",
+      "complexity": 4,
+      "classStats": {
+        "melee": 3,
+        "ranged": 1,
+        "mobility": 2,
+        "support": 3,
+        "defense": 1,
+        "control": 5
+      },
+      "elementalAffinities": [],
+      "portraitTransform": {
+        "x": -895,
+        "y": -316,
+        "scale": 1.57
+      }
+    }
+  }
+}

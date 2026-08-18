@@ -1,0 +1,923 @@
+{
+  "kind": "haven-mat-project",
+  "fileVersion": 1,
+  "templateId": "gh2e",
+  "snapshotVersion": 2,
+  "snapshot": {
+    "name": "Taxbriber",
+    "state": {
+      "variantFeatures": {
+        "extraBar": false,
+        "multiHand": false,
+        "tokens": true
+      },
+      "colorOverrides": {
+        "background": {
+          "h": 36,
+          "s": 58,
+          "l": 46,
+          "a": 1,
+          "gradient": {
+            "angle": 135,
+            "stops": [
+              {
+                "h": 36,
+                "s": 58,
+                "l": 46,
+                "a": 1,
+                "position": 0.14400000000000002
+              },
+              {
+                "h": 36,
+                "s": 58,
+                "l": 67,
+                "a": 1,
+                "position": 0.17
+              },
+              {
+                "h": 36,
+                "s": 58,
+                "l": 46,
+                "a": 1,
+                "position": 0.207
+              },
+              {
+                "h": 36,
+                "s": 58,
+                "l": 46,
+                "a": 1,
+                "position": 0.264
+              },
+              {
+                "h": 36,
+                "s": 58,
+                "l": 67,
+                "a": 1,
+                "position": 0.32299999999999995
+              },
+              {
+                "h": 36,
+                "s": 58,
+                "l": 46,
+                "a": 1,
+                "position": 0.361
+              },
+              {
+                "h": 36,
+                "s": 58,
+                "l": 46,
+                "a": 1,
+                "position": 0.6990000000000001
+              },
+              {
+                "h": 36,
+                "s": 58,
+                "l": 67,
+                "a": 1,
+                "position": 0.7390000000000001
+              },
+              {
+                "h": 36,
+                "s": 58,
+                "l": 46,
+                "a": 1,
+                "position": 0.7879999999999999
+              }
+            ]
+          }
+        },
+        "lines": {
+          "h": 36,
+          "s": 68,
+          "l": 53,
+          "a": 1
+        },
+        "decorations": {
+          "h": 36,
+          "s": 68,
+          "l": 53,
+          "a": 1
+        },
+        "banners": {
+          "h": 36,
+          "s": 68,
+          "l": 53,
+          "a": 1,
+          "gradient": {
+            "angle": 135,
+            "stops": [
+              {
+                "h": 36,
+                "s": 68,
+                "l": 53,
+                "a": 1,
+                "position": 0.19899999999999998
+              },
+              {
+                "h": 36,
+                "s": 58,
+                "l": 72,
+                "a": 1,
+                "position": 0.331
+              },
+              {
+                "h": 36,
+                "s": 58,
+                "l": 52,
+                "a": 1,
+                "position": 0.40399999999999997
+              },
+              {
+                "h": 36,
+                "s": 58,
+                "l": 52,
+                "a": 1,
+                "position": 0.544
+              },
+              {
+                "h": 36,
+                "s": 58,
+                "l": 72,
+                "a": 1,
+                "position": 0.603
+              },
+              {
+                "h": 36,
+                "s": 68,
+                "l": 53,
+                "a": 1,
+                "position": 0.665
+              }
+            ]
+          }
+        },
+        "banners-top": {
+          "h": 36,
+          "s": 68,
+          "l": 53,
+          "a": 1,
+          "gradient": {
+            "angle": 135,
+            "stops": [
+              {
+                "h": 36,
+                "s": 68,
+                "l": 53,
+                "a": 1,
+                "position": 0.19899999999999998
+              },
+              {
+                "h": 36,
+                "s": 58,
+                "l": 72,
+                "a": 1,
+                "position": 0.331
+              },
+              {
+                "h": 36,
+                "s": 58,
+                "l": 52,
+                "a": 1,
+                "position": 0.40399999999999997
+              },
+              {
+                "h": 36,
+                "s": 58,
+                "l": 52,
+                "a": 1,
+                "position": 0.544
+              },
+              {
+                "h": 36,
+                "s": 58,
+                "l": 72,
+                "a": 1,
+                "position": 0.603
+              },
+              {
+                "h": 36,
+                "s": 68,
+                "l": 53,
+                "a": 1,
+                "position": 0.665
+              }
+            ]
+          }
+        },
+        "banners-bottom": {
+          "h": 36,
+          "s": 68,
+          "l": 53,
+          "a": 1,
+          "gradient": {
+            "angle": 135,
+            "stops": [
+              {
+                "h": 36,
+                "s": 68,
+                "l": 53,
+                "a": 1,
+                "position": 0.19899999999999998
+              },
+              {
+                "h": 36,
+                "s": 58,
+                "l": 72,
+                "a": 1,
+                "position": 0.331
+              },
+              {
+                "h": 36,
+                "s": 58,
+                "l": 52,
+                "a": 1,
+                "position": 0.40399999999999997
+              },
+              {
+                "h": 36,
+                "s": 58,
+                "l": 52,
+                "a": 1,
+                "position": 0.544
+              },
+              {
+                "h": 36,
+                "s": 58,
+                "l": 72,
+                "a": 1,
+                "position": 0.603
+              },
+              {
+                "h": 36,
+                "s": 68,
+                "l": 53,
+                "a": 1,
+                "position": 0.665
+              }
+            ]
+          }
+        },
+        "banners-left": {
+          "h": 36,
+          "s": 68,
+          "l": 53,
+          "a": 1,
+          "gradient": {
+            "angle": 135,
+            "stops": [
+              {
+                "h": 36,
+                "s": 68,
+                "l": 53,
+                "a": 1,
+                "position": 0.168
+              },
+              {
+                "h": 36,
+                "s": 58,
+                "l": 72,
+                "a": 1,
+                "position": 0.261
+              },
+              {
+                "h": 36,
+                "s": 58,
+                "l": 52,
+                "a": 1,
+                "position": 0.337
+              },
+              {
+                "h": 36,
+                "s": 58,
+                "l": 52,
+                "a": 1,
+                "position": 0.415
+              },
+              {
+                "h": 36,
+                "s": 58,
+                "l": 72,
+                "a": 1,
+                "position": 0.483
+              },
+              {
+                "h": 36,
+                "s": 68,
+                "l": 53,
+                "a": 1,
+                "position": 0.5760000000000001
+              }
+            ]
+          }
+        },
+        "banners-right": {
+          "h": 36,
+          "s": 68,
+          "l": 53,
+          "a": 1,
+          "gradient": {
+            "angle": 135,
+            "stops": [
+              {
+                "h": 36,
+                "s": 68,
+                "l": 53,
+                "a": 1,
+                "position": 0.19899999999999998
+              },
+              {
+                "h": 36,
+                "s": 58,
+                "l": 52,
+                "a": 1,
+                "position": 0.40399999999999997
+              },
+              {
+                "h": 36,
+                "s": 58,
+                "l": 52,
+                "a": 1,
+                "position": 0.544
+              },
+              {
+                "h": 36,
+                "s": 58,
+                "l": 72,
+                "a": 1,
+                "position": 0.603
+              },
+              {
+                "h": 36,
+                "s": 68,
+                "l": 53,
+                "a": 1,
+                "position": 0.665
+              }
+            ]
+          }
+        },
+        "gem": {
+          "h": 36,
+          "s": 68,
+          "l": 53,
+          "a": 1
+        },
+        "colored-text": {
+          "h": 36,
+          "s": 68,
+          "l": 53,
+          "a": 1
+        },
+        "traits": {
+          "h": 36,
+          "s": 68,
+          "l": 53,
+          "a": 1
+        },
+        "resource-banner": {
+          "h": 36,
+          "s": 68,
+          "l": 53,
+          "a": 1,
+          "gradient": {
+            "angle": 135,
+            "stops": [
+              {
+                "h": 36,
+                "s": 68,
+                "l": 53,
+                "a": 1,
+                "position": 0.19899999999999998
+              },
+              {
+                "h": 36,
+                "s": 58,
+                "l": 72,
+                "a": 1,
+                "position": 0.331
+              },
+              {
+                "h": 36,
+                "s": 58,
+                "l": 52,
+                "a": 1,
+                "position": 0.40399999999999997
+              },
+              {
+                "h": 36,
+                "s": 58,
+                "l": 52,
+                "a": 1,
+                "position": 0.544
+              },
+              {
+                "h": 36,
+                "s": 58,
+                "l": 72,
+                "a": 1,
+                "position": 0.603
+              },
+              {
+                "h": 36,
+                "s": 68,
+                "l": 53,
+                "a": 1,
+                "position": 0.665
+              }
+            ]
+          }
+        }
+      },
+      "colorOverridesByEdition": {
+        "fh": {
+          "background": {
+            "h": 36,
+            "s": 58,
+            "l": 46,
+            "a": 1,
+            "gradient": {
+              "angle": 135,
+              "stops": [
+                {
+                  "h": 36,
+                  "s": 58,
+                  "l": 46,
+                  "a": 1,
+                  "position": 0.14400000000000002
+                },
+                {
+                  "h": 36,
+                  "s": 58,
+                  "l": 67,
+                  "a": 1,
+                  "position": 0.17
+                },
+                {
+                  "h": 36,
+                  "s": 58,
+                  "l": 46,
+                  "a": 1,
+                  "position": 0.207
+                },
+                {
+                  "h": 36,
+                  "s": 58,
+                  "l": 46,
+                  "a": 1,
+                  "position": 0.264
+                },
+                {
+                  "h": 36,
+                  "s": 58,
+                  "l": 67,
+                  "a": 1,
+                  "position": 0.32299999999999995
+                },
+                {
+                  "h": 36,
+                  "s": 58,
+                  "l": 46,
+                  "a": 1,
+                  "position": 0.361
+                },
+                {
+                  "h": 36,
+                  "s": 58,
+                  "l": 46,
+                  "a": 1,
+                  "position": 0.6990000000000001
+                },
+                {
+                  "h": 36,
+                  "s": 58,
+                  "l": 67,
+                  "a": 1,
+                  "position": 0.7390000000000001
+                },
+                {
+                  "h": 36,
+                  "s": 58,
+                  "l": 46,
+                  "a": 1,
+                  "position": 0.7879999999999999
+                }
+              ]
+            }
+          },
+          "frame": {
+            "h": 0,
+            "s": 0,
+            "l": 59,
+            "a": 0
+          },
+          "lines": {
+            "h": 36,
+            "s": 68,
+            "l": 53,
+            "a": 1
+          },
+          "decorations": {
+            "h": 36,
+            "s": 68,
+            "l": 53,
+            "a": 1
+          },
+          "banners": {
+            "h": 36,
+            "s": 68,
+            "l": 53,
+            "a": 1,
+            "gradient": {
+              "angle": 135,
+              "stops": [
+                {
+                  "h": 36,
+                  "s": 68,
+                  "l": 53,
+                  "a": 1,
+                  "position": 0.19899999999999998
+                },
+                {
+                  "h": 36,
+                  "s": 58,
+                  "l": 72,
+                  "a": 1,
+                  "position": 0.331
+                },
+                {
+                  "h": 36,
+                  "s": 58,
+                  "l": 52,
+                  "a": 1,
+                  "position": 0.40399999999999997
+                },
+                {
+                  "h": 36,
+                  "s": 58,
+                  "l": 52,
+                  "a": 1,
+                  "position": 0.544
+                },
+                {
+                  "h": 36,
+                  "s": 58,
+                  "l": 72,
+                  "a": 1,
+                  "position": 0.603
+                },
+                {
+                  "h": 36,
+                  "s": 68,
+                  "l": 53,
+                  "a": 1,
+                  "position": 0.665
+                }
+              ]
+            }
+          },
+          "banners-top": {
+            "h": 36,
+            "s": 68,
+            "l": 53,
+            "a": 1,
+            "gradient": {
+              "angle": 135,
+              "stops": [
+                {
+                  "h": 36,
+                  "s": 68,
+                  "l": 53,
+                  "a": 1,
+                  "position": 0.19899999999999998
+                },
+                {
+                  "h": 36,
+                  "s": 58,
+                  "l": 72,
+                  "a": 1,
+                  "position": 0.331
+                },
+                {
+                  "h": 36,
+                  "s": 58,
+                  "l": 52,
+                  "a": 1,
+                  "position": 0.40399999999999997
+                },
+                {
+                  "h": 36,
+                  "s": 58,
+                  "l": 52,
+                  "a": 1,
+                  "position": 0.544
+                },
+                {
+                  "h": 36,
+                  "s": 58,
+                  "l": 72,
+                  "a": 1,
+                  "position": 0.603
+                },
+                {
+                  "h": 36,
+                  "s": 68,
+                  "l": 53,
+                  "a": 1,
+                  "position": 0.665
+                }
+              ]
+            }
+          },
+          "banners-bottom": {
+            "h": 36,
+            "s": 68,
+            "l": 53,
+            "a": 1,
+            "gradient": {
+              "angle": 135,
+              "stops": [
+                {
+                  "h": 36,
+                  "s": 68,
+                  "l": 53,
+                  "a": 1,
+                  "position": 0.19899999999999998
+                },
+                {
+                  "h": 36,
+                  "s": 58,
+                  "l": 72,
+                  "a": 1,
+                  "position": 0.331
+                },
+                {
+                  "h": 36,
+                  "s": 58,
+                  "l": 52,
+                  "a": 1,
+                  "position": 0.40399999999999997
+                },
+                {
+                  "h": 36,
+                  "s": 58,
+                  "l": 52,
+                  "a": 1,
+                  "position": 0.544
+                },
+                {
+                  "h": 36,
+                  "s": 58,
+                  "l": 72,
+                  "a": 1,
+                  "position": 0.603
+                },
+                {
+                  "h": 36,
+                  "s": 68,
+                  "l": 53,
+                  "a": 1,
+                  "position": 0.665
+                }
+              ]
+            }
+          },
+          "banners-left": {
+            "h": 36,
+            "s": 68,
+            "l": 53,
+            "a": 1,
+            "gradient": {
+              "angle": 135,
+              "stops": [
+                {
+                  "h": 36,
+                  "s": 68,
+                  "l": 53,
+                  "a": 1,
+                  "position": 0.168
+                },
+                {
+                  "h": 36,
+                  "s": 58,
+                  "l": 72,
+                  "a": 1,
+                  "position": 0.261
+                },
+                {
+                  "h": 36,
+                  "s": 58,
+                  "l": 52,
+                  "a": 1,
+                  "position": 0.337
+                },
+                {
+                  "h": 36,
+                  "s": 58,
+                  "l": 52,
+                  "a": 1,
+                  "position": 0.415
+                },
+                {
+                  "h": 36,
+                  "s": 58,
+                  "l": 72,
+                  "a": 1,
+                  "position": 0.483
+                },
+                {
+                  "h": 36,
+                  "s": 68,
+                  "l": 53,
+                  "a": 1,
+                  "position": 0.5760000000000001
+                }
+              ]
+            }
+          },
+          "banners-right": {
+            "h": 36,
+            "s": 68,
+            "l": 53,
+            "a": 1,
+            "gradient": {
+              "angle": 135,
+              "stops": [
+                {
+                  "h": 36,
+                  "s": 68,
+                  "l": 53,
+                  "a": 1,
+                  "position": 0.19899999999999998
+                },
+                {
+                  "h": 36,
+                  "s": 58,
+                  "l": 52,
+                  "a": 1,
+                  "position": 0.40399999999999997
+                },
+                {
+                  "h": 36,
+                  "s": 58,
+                  "l": 52,
+                  "a": 1,
+                  "position": 0.544
+                },
+                {
+                  "h": 36,
+                  "s": 58,
+                  "l": 72,
+                  "a": 1,
+                  "position": 0.603
+                },
+                {
+                  "h": 36,
+                  "s": 68,
+                  "l": 53,
+                  "a": 1,
+                  "position": 0.665
+                }
+              ]
+            }
+          },
+          "gem": {
+            "h": 36,
+            "s": 68,
+            "l": 53,
+            "a": 1
+          },
+          "colored-text": {
+            "h": 36,
+            "s": 68,
+            "l": 53,
+            "a": 1
+          },
+          "traits": {
+            "h": 36,
+            "s": 68,
+            "l": 53,
+            "a": 1
+          }
+        }
+      },
+      "textOverrides": {
+        "frame.name": "Taxbriber",
+        "bg.hand-size": "10",
+        "content.notes": "- custom: '%p_font-size:1em%You can manipulate allies and enemies for your wishes by performing %b%Bribe%be% %classToken1% abilities. To %classToken1% an enemy, put one loot token you have in its hex. To %classToken1% an ally, you give them %b%one loot token%be% you have. Allies also may %classToken1% you to gain some nice benefits. Note that you can %classToken1% %b%only character allies%be%.'\n- divider: \n- custom: 'You have access to five %b%Counterfeit tokens%be% at the start of the scenario. You may spend them to %classToken1% enemies instead of placing loot tokens on the map.'\n- divider: \n- custom: '%p_font-size:1em%You have many %loot% %b%abilities%be% to fuel your other abilties. Communicate with allies, share loot with them and plan your and enemy placement on the map carefully.'\n  lineHeight: 1",
+        "content.resource-tracker.name": "Counterfeit"
+      },
+      "assetOverrides": {
+        "frame.icon": {
+          "assetUrl": "",
+          "sourceUrl": "https://raw.githubusercontent.com/buemi17/Taxbriber/main/Taxbriber/TaxbriberClassIcon.png",
+          "position": {
+            "x": 0,
+            "y": 0
+          },
+          "scale": 1.0954451150103321,
+          "rotation": 0
+        },
+        "bg.portrait": {
+          "assetUrl": "",
+          "position": {
+            "x": -900,
+            "y": 80
+          },
+          "scale": 0.99,
+          "rotation": 0,
+          "sourceUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPAYXljXRPA8o90DR5AX76RmO78iZ7ulKUPrS3ZxlMxi4piZtuD-8mkbg&s=10"
+        }
+      },
+      "hpTrack": {
+        "preset": "high"
+      },
+      "traits": [
+        "Educated",
+        "Resourceful",
+        "Intimidating"
+      ],
+      "rulesReferences": [
+        {
+          "title": "Active Bonuses",
+          "page": "30"
+        },
+        {
+          "title": "Commanding Figures",
+          "page": "33"
+        }
+      ],
+      "iconLegendShow": {
+        "jump": true,
+        "flying": false,
+        "teleport": false
+      },
+      "bleedEnabled": false,
+      "advancedColors": true,
+      "advancedTraits": false,
+      "customIcons": [
+        {
+          "id": "32bfca0e-c846-4a91-af42-dbf66bcdb6d5",
+          "name": "classToken0",
+          "sourceUrl": "https://img.icons8.com/?size=100&id=4rLjJ3tMbQ7V&format=png&color=000000",
+          "imageUrl": "",
+          "scale": 1,
+          "inlineScale": 1,
+          "conditionMode": true
+        },
+        {
+          "id": "e7731d36-6997-445b-8602-d622d3c36e38",
+          "name": "classToken1",
+          "sourceUrl": "https://media.discordapp.net/attachments/1513445566460465282/1538948546328531064/BribeTokenWhite.png?ex=6a848905&is=6a833785&hm=1a3a7fcd597c9ceb64a9323d63e4bacb4acff84c932e5af4a2081b659773b6cd&=&format=webp&quality=lossless&width=1024&height=915",
+          "imageUrl": "",
+          "scale": 0.75,
+          "inlineScale": 1,
+          "conditionMode": false
+        },
+        {
+          "id": "26d198f0-2dbf-424e-863a-68faa5676670",
+          "name": "tracker",
+          "sourceUrl": "https://raw.githubusercontent.com/buemi17/Taxbriber/main/Taxbriber/Taxbriber_tracker_2026-07-31_12-18-52.png",
+          "imageUrl": "",
+          "scale": 1
+        }
+      ],
+      "resourceTracker": {
+        "enabled": true,
+        "maxResources": 5,
+        "advancedPositioning": false,
+        "slotOffsetsY": []
+      },
+      "extraBar": {
+        "secondBar": "off",
+        "summonStats": false,
+        "damageConditions": false,
+        "barTrack": {
+          "preset": "mid"
+        }
+      }
+    },
+    "back": {
+      "bleedEnabled": false,
+      "originMode": "builtin",
+      "originKey": "Inox",
+      "customOriginText": "",
+      "customDescription": "",
+      "retirementText": "00.0",
+      "complexity": 3,
+      "classStats": {
+        "melee": 4,
+        "ranged": 0,
+        "mobility": 2,
+        "support": 3,
+        "defense": 2,
+        "control": 4
+      },
+      "elementalAffinities": [],
+      "portraitTransform": {
+        "x": -895,
+        "y": -314,
+        "scale": 1.57
+      }
+    }
+  }
+}
